@@ -50,6 +50,10 @@
                 "app/code/community/Mage/Catalog/Model/Resource/Product/Indexer/Price.php"
             ],
             [
+                "app/code/community/Mage/Catalog/Model/Resource/Product/Indexer/Eav/Abstract.php",
+                "app/code/community/Mage/Catalog/Model/Resource/Product/Indexer/Eav/Abstract.php"
+            ],
+            [
                 "app/code/community/Mage/Catalog/Model/Url.php",
                 "app/code/community/Mage/Catalog/Model/Url.php"
             ],
