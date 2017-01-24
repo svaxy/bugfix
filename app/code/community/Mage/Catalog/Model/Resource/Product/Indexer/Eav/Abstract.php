@@ -88,6 +88,7 @@ abstract class Mage_Catalog_Model_Resource_Product_Indexer_Eav_Abstract
             $processIds = array_unique(array_merge($processIds, $childIds));
         }
 
+        $processIds = array_map('intval', $processIds);
         $this->_prepareIndex($processIds);
         $this->_prepareRelationIndex($processIds);
         $this->_removeNotVisibleEntityFromIndex();
