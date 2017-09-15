@@ -54,6 +54,10 @@
                 "app/code/community/Mage/Catalog/Model/Resource/Product/Indexer/Eav/Abstract.php"
             ],
             [
+                "app/code/community/Mage/Catalog/Model/Indexer/Url.php",
+                "app/code/community/Mage/Catalog/Model/Indexer/Url.php"
+            ],
+            [
                 "app/code/community/Mage/Catalog/Model/Url.php",
                 "app/code/community/Mage/Catalog/Model/Url.php"
             ],
@@ -88,6 +92,34 @@
             [
                 "app/code/community/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php",
                 "app/code/community/Mage/SalesRule/Model/Rule/Condition/Product/Subselect.php"
+            ],
+            [
+                "app/code/community/Enterprise/TargetRule/Model/Resource/Index.php",
+                "app/code/community/Enterprise/TargetRule/Model/Resource/Index.php"
+            ],
+            [
+                "app/code/community/Mage/Connect/Packager.php",
+                "app/code/community/Mage/Connect/Packager.php"
+            ],
+            [
+                "app/code/community/Mage/Core/Helper/Data.php",
+                "app/code/community/Mage/Core/Helper/Data.php"
+            ],
+            [
+                "app/code/community/Mage/Core/Model/Resource/Session.php",
+                "app/code/community/Mage/Core/Model/Resource/Session.php"
+            ],
+            [
+                "app/code/community/Mage/Sales/Model/Config/Ordered.php",
+                "app/code/community/Mage/Sales/Model/Config/Ordered.php"
+            ],
+            [
+                "errors/processor.php",
+                "errors/processor.php"
+            ],
+            [
+                "app/code/community/Mage/Sales/Model/Quote/Item/Abstract.php",
+                "app/code/community/Mage/Sales/Model/Quote/Item/Abstract.php"
             ]
         ]
     }
