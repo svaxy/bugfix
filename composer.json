@@ -78,6 +78,10 @@
                 "app/code/community/Zend/XmlRpc/Value.php"
             ],
             [
+                "lib/Unserialize/Parser.php",
+                "app/code/community/Unserialize/Parser.php"
+            ],
+            [
                 "app/etc/modules/Webbhuset_Bugfix.xml",
                 "app/etc/modules/Webbhuset_Bugfix.xml"
             ],
@@ -108,10 +112,6 @@
             [
                 "app/code/community/Mage/Sales/Model/Config/Ordered.php",
                 "app/code/community/Mage/Sales/Model/Config/Ordered.php"
-            ],
-            [
-                "errors/processor.php",
-                "errors/processor.php"
             ],
             [
                 "app/code/community/Mage/Sales/Model/Quote/Item/Abstract.php",
